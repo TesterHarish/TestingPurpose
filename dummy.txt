@@ -1,2 +1,2 @@
-This is my dummyPlain text
+This is my dummy text
 NotePad is a primary option
